@@ -1,7 +1,7 @@
 
 <!-- <div align="center"><img style="border-radius:100%" src="https://avatars.githubusercontent.com/u/83573729?v=4" alt="kabirajk" /></div> -->
 <h1 align="center">Hi 👋, I'm KABIRAJ</h1>
-<h3 align="center">A Self Thought developer</h3>
+<h3 align="center">A Self-Taught Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirajk&label=Profile%20views&color=0e75b6&style=flat" alt="kabirajk" /> </p>
 
