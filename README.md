@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [KOFIPLAYER](https://github.com/kabirajk/KofiPlayer)
 
-- 🌱 I’m currently learning **SVELTE FRAMEWORKS**
+- 🌱 I’m currently learning **SVELTE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
